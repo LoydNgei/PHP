@@ -1,5 +1,7 @@
 <?php include 'inc/header.php'; ?>
 
+
+
 <?php 
   $name = $email = $body = '';
   $nameErr = $emailErr = $bodyErr = '';
@@ -54,7 +56,7 @@
   <div class="container d-flex flex-column align-items-center">
     <h2>Feedback</h2>
 
-    <p class="lead text-center">Leave feedback for Traversy Media</p>
+    <p class="lead text-center">Leave feedback for Loyd</p>
 
 
 
